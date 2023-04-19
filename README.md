@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @hellokugelblitz
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me programming?
+<h1 align="center">Hi 👋, I'm Jack</h1>
+<h3 align="center">A software engineer from Conneticut!</h3>
 
-<!---
-hellokugelblitz/hellokugelblitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💬 Ask me about
+- Frontend web development (Angular, React)
+- UI and UX design
+- **Project Managment (Agile, Scrum, Waterfall)**
+- Game Design and developement
+- Design Patterns
+
+## 📅 Hobbies
+- Writing and reading poetry
+- Finding new music 🎵 
+- Interior Design
+- Playing games
+- Pondering lifes fundemental mysteries
+- etc...
+
+## 💻 Current project
+- [Circular Pong]()
+
+## 📚 Learning
+- Hopefully Flutter (I want to make a app to tell me when my bus arrives, see [nextBus]()) 
+- SVG Animations, perfecting my web design skillz.
