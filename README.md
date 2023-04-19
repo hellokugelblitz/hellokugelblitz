@@ -17,7 +17,7 @@
 - etc...
 
 ## 💻 Current project
-- [Circular Pong]()
+- [Circular Pong](https://github.com/hellokugelblitz/CircularPong)
 
 ## 📚 Learning
 - Hopefully Flutter (I want to make a app to tell me when my bus arrives, see [nextBus]()) 
