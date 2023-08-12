@@ -16,9 +16,9 @@
 - Pondering lifes fundemental mysteries
 - etc...
 
-## 💻 Current project
+## 💻 Current projects
+- [The Electoral Canvas](https://github.com/hellokugelblitz/ElectoralCanvas)
 - [Circular Pong](https://github.com/hellokugelblitz/CircularPong)
-- [The Electoral Playground]
 
 ## 📚 Learning
 - Hopefully Flutter (I want to make a app to tell me when my bus arrives, see [nextBus](https://github.com/hellokugelblitz/nextBus)) 
