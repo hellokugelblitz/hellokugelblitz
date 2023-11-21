@@ -16,7 +16,8 @@
 - Pondering lifes fundemental mysteries
 - etc...
 
-## 💻 Current projects
+## 💻 Recent projects
+- [Dijkstra's Visualized](https://github.com/hellokugelblitz/DijkstrasVisualized)
 - [The Electoral Canvas](https://github.com/hellokugelblitz/ElectoralCanvas)
 - [Circular Pong](https://github.com/hellokugelblitz/CircularPong)
 
