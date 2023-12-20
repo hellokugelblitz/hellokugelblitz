@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer / Project Manager</h3>
 
 ## 💬 Ask me about
-- Frontend web development (Angular, React)
-- UI and UX design
+- Frontend web development (Angular, React, Svelte)
+- UI and UX design (getting better)
 - **Project Managment (Agile, Scrum, Waterfall)**
 - Game Design and developement
 - Design Patterns
