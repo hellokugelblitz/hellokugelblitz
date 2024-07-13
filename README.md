@@ -16,7 +16,9 @@
 - Pondering lifes fundemental mysteries
 - etc...
 
-## 💻 Recent projects
+## 💻 Cool projects by me (In order of completion)
+- [Wampum Pay](https://github.com/hellokugelblitz/WampumPay)
+- [AI Jumbles](https://github.com/hellokugelblitz/AI_Jumbles)
 - [Dijkstra's Visualized](https://github.com/hellokugelblitz/DijkstrasVisualized)
 - [The Electoral Canvas](https://github.com/hellokugelblitz/ElectoralCanvas)
 - [Circular Pong](https://github.com/hellokugelblitz/CircularPong)
